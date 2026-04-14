@@ -16,6 +16,20 @@ A premium, cloud-synced Progressive Web App (PWA) designed to help users conquer
 - **PWA Ready**: Installable on iOS and Android for a native, standalone app experience.
 - **Premium UX/UI**: High-end glassmorphism design with celebrate-on-completion animations.
 
+## 📱 Mobile Installation (PWA)
+
+This app is a Progressive Web App (PWA). You can install it on your home screen for a native app experience:
+
+### On iOS (iPhone/iPad):
+1. Open the [Live Demo](https://hard75-tracker-aditya-pro.web.app) in **Safari**.
+2. Tap the **Share** button (square with up arrow).
+3. Scroll down and tap **"Add to Home Screen"**.
+
+### On Android:
+1. Open the [Live Demo](https://hard75-tracker-aditya-pro.web.app) in **Chrome**.
+2. Tap the **three dots** (menu) in the top-right corner.
+3. Tap **"Install app"** or **"Add to Home screen"**.
+
 ## 🛠 Tech Stack
 
 - **Frontend**: React (Vite)
